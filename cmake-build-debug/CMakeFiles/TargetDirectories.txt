@@ -1,0 +1,3 @@
+C:/Users/James/CLionProjects/catan/cmake-build-debug/CMakeFiles/catan.dir
+C:/Users/James/CLionProjects/catan/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/James/CLionProjects/catan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
