@@ -1,4 +1,4 @@
-# Hexane
+# /\\/\\/ Hexane /\\/\\/
 
 ## About
 Hexane aims to be the greatest catan clone there ever was.
