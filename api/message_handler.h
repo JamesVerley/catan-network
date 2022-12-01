@@ -22,7 +22,7 @@
  *
  */
 
-#include "gamecore.h"
+#include "../core/gamecore.h"
 // #include "lobby.h" // separate state system for gamecore, message handler and lobby
 
 enum gc_api{

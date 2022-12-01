@@ -1,4 +1,4 @@
-#include "message_handler.h" // encapsulates gamecore
+#include "../api/message_handler.h" // encapsulates gamecore
 //#include "lobby.h"
 
 /*
