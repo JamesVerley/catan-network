@@ -5,7 +5,7 @@
 
 //
 
-#include "gamecore.h"
+#include "message_handler.h"
 
 namespace core_unittest{
 

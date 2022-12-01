@@ -2,7 +2,11 @@
 // Created by James on 25/11/2022.
 //
 
-#ifndef CATAN_LOBBY_H
-#define CATAN_LOBBY_H
+/*
+ * A separate lobby system for catan games
+ *
+ * Scope:
+ * . serving the lobby webpage
+ * . rest api processor
+ */
 
-#endif //CATAN_LOBBY_H
