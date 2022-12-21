@@ -1,7 +1,7 @@
 # The board
 ### Map
 hexes are stored in a 2d array with a width and height.
-Given a tileId, neighbors are found as follow
+Given a tileId, neighbors are found as follows
 
 id_bottomleft(id) id+boardWidth-1 + (id/boardWidth+1)%2
 
