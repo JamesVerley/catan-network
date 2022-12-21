@@ -1,0 +1,30 @@
+{
+  "tile": {
+    "void": 0,
+    "ocean": 1,
+    "crop": 2,
+    "forest": 3,
+    "pasture": 4,
+    "mine": 5,
+    "mesa": 6,
+    "robber": 7
+  },
+
+  "resource": {
+    "grain": 0,
+    "lumber": 1,
+    "livestock": 2,
+    "ore": 3,
+    "brick": 4
+  },
+
+  "tile-resource": {
+    "void": "",
+    "ocean": "",
+    "crop": 0,
+    "forest": 1,
+    "pasture": 2,
+    "mine": 3,
+    "mesa": 4
+  }
+}
