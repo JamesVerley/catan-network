@@ -1,0 +1,38 @@
+INIT
+
+- board structure
+- players
+- robber position
+
+SETUP
+(x2)
+- settlement placement per turn
+- 2 roads per turn
+
+DICE ROLL
+
+GET RESOURCE CARDS
+
+BUILD ROAD
+
+BUILD SETTLEMENT
+
+BUILD CITY
+
+TRADE OFFER | SEND
+
+TRADE OFFER | RECEIVE
+
+TRADE | BANK
+
+PLAY DEVELOPMENT CARD
+
+SEND A MESSAGE
+
+BUY DEVELOPMENT CARD
+
+ROBBER
+
+KNIGHT
+
+VICTORY CARD
