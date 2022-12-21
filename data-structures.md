@@ -31,7 +31,8 @@ topright(x,y) x+y%2 + (y-1)*boardWidth
 
 ### Roads and buildings
 Each hex points to 3 road placements and 3 building placements,
-building places starting from the leftmost vertex going clockwise
-edge starting from the topleft going clockwise
+building places start from the bottomleft vertex going clockwise
+
+edge starting from the left going clockwise
 
 ###  Harbours / Ports
