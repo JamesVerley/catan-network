@@ -11,11 +11,11 @@
 | player ids | 7 | 
 
 > ### Hex structs
-> landtype enum
+> landtype -- enum
 > 
 
 ### from client
-| Move name | Enum id | data |
+| Move Request | Enum id | data |
 |---|---|---|
 | join game | 0 | user id -- int<br/> |
 | reload all | 1 | none |
@@ -26,13 +26,3 @@
 | build city | 5 | tileId -- int<br/>cornerId -- int<br/>resourceCardIds -- int<br/> |
 | place robber | 6 | tileId -- int<br/> |
 | play developmentcard | 7 | devcardId<br/> |
-
-## Lobby
-### from server
-### from client
-
-## user database
-### from server
-### from client
-|  | Enum id | data |
-|---|---|---|
