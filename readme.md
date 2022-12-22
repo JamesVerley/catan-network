@@ -22,7 +22,7 @@ Or, contribute to the codebase and help fight the good fight to prevent:
 | test | suite of tests and test-data for ensuring functionality |
 
 ### Game core
-See [game.md](markdown/game.md)
+See [game.md](core/game.md)
 ### API
 
 ### Lobby
