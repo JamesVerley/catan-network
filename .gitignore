@@ -1,2 +1,5 @@
 libs
 CMakeCache.txt
+build
+CMakeFiles
+cmake_install.cmake_install
