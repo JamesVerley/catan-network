@@ -3,3 +3,5 @@ CMakeCache.txt
 build
 CMakeFiles
 cmake_install.cmake_install
+Makefile
+vcpkg_installed

@@ -1,4 +1,2 @@
-mkdir libs
-cd libs
-git clone https://github.com/Tradias/asio-grpc.git
-git clone https://github.com/chriskohlhoff/asio
+#install vcpkg onto your system and run:
+vcpkg install

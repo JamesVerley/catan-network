@@ -1,5 +1,5 @@
 {
-    "name": "your_app",
+    "name": "catan",
     "version": "0.1.0",
     "dependencies": [
         "asio-grpc",
