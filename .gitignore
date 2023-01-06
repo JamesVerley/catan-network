@@ -2,6 +2,7 @@ libs
 CMakeCache.txt
 build
 CMakeFiles
-cmake_install.cmake_install
+cmake_install.cmake
+sockets_test
 Makefile
 vcpkg_installed
